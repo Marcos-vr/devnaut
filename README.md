@@ -1,2 +1,2 @@
 # devnaut
-https://prod.liveshare.vsengsaas.visualstudio.com/join?0E04B52E8BA2634FE0DB0A58ACF13320702C
+https://prod.liveshare.vsengsaas.visualstudio.com/join?52E7AD8AB9DD91F54D4A768E0FD5DFA9AF2F
