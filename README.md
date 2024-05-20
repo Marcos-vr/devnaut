@@ -1,4 +1,4 @@
 # devnaut
 
-![image](https://github.com/Marcos-vr/devnaut/assets/153649859/f390bfa9-deab-4218-8460-78bfcb3a1482)
+https://prod.liveshare.vsengsaas.visualstudio.com/join?AEA2AA50175AF168CFA178205F6FA5A3273D
 
