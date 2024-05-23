@@ -1,4 +1,4 @@
 # devnaut
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?9F3ACFD2752A5AD0EEE316B2BCB69D8A692B
+https://prod.liveshare.vsengsaas.visualstudio.com/join?358FD6F9E540878BCA3135F83200DCD7F4B5
 
